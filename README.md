@@ -7,4 +7,4 @@ Now I am sleep deprived. However, I have a python program that helps me organize
 ## What it does
 
 1. Group files by modified year.
-2. Rename files following this naming convention: "YYYY_MM_DD HH_MM_SS UNIQUE_ID".
+2. Rename files following this naming convention: "YYYY_MM_DD HH_MM_SS".
